@@ -1,0 +1,12 @@
+.form-control-group {
+    padding-bottom: 20px;
+}
+.elastic li {
+    transition: all ease .5s;
+}
+.elastic li.hide {
+    display: none;
+}
+mark {
+    background-color: green;
+}
